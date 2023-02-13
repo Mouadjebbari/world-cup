@@ -1,15 +1,9 @@
-    table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-    }
-
-    td, th {
-    border: 1px solid #c32e2e;
-    text-align: left;
-    padding: 8px;
-    }
-
-    th {
-    background-color: #c32e2e;
-    }
+.col {
+    background-color: rgb(221, 225, 225);
+  }
+  #border {
+    border-bottom: 1px solid black;
+  }
+  #final {
+    background-color: rgb(167, 166, 166);
+  }
